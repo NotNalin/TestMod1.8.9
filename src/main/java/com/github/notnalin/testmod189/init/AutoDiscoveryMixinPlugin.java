@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.notnalin.testmod189.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
